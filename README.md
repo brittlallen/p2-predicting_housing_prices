@@ -8,8 +8,13 @@ We cleaned and analyzed 81 features which we engineered by way of dummying, mapp
 
 Our model achieved an R squared of 94% on training data and 86% on unseen data. This means two things: 86% of the variability in the data is explained by our model and our model is overfit. Our final model was not our best model. We, unfortunately, overwrote the features from our best model as the assumption was made that converting all features to numeric and using Polynomial Features would yield even better results which was not the case.
 
-#### Our recommendations are more time, data, and team collaboration.
-
+## Recommendations
+* Continue to test/learn to improve the model by:
+   * Revisiting my initial forward selection process
+   * Selecting features highly correlated with Sale Price
+   * Creating new ones and checking their correlation
+   * Feeding the model and checking the results
+   * Keeping track of the features that improve the model and discard (but also track) the features that don't
 * We believe more time and the meeting of diverse minds to test and learn will yield better results.
 * We also would like more data from other cities in Story county and more data on the neighborhood (e.g. number of schools, school types, prisons/jails in the area, etc.)
    
