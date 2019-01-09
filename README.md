@@ -18,4 +18,4 @@ Our model achieved an R squared of 94% on training data and 86% on unseen data. 
 * We believe more time and the meeting of diverse minds to test and learn will yield better results.
 * We also would like more data from other cities in Story county and more data on the neighborhood (e.g. number of schools, school types, prisons/jails in the area, etc.)
    
-Our presentation can be found [here.](https://docs.google.com/presentation/d/18HFR4V_COfimNcqGskrFQk7IxSU8_tn7iLrRXwrEkTg/edit#slide=id.g49c05edb3f_1_97) I also have [an article featured on Towards Data Science](https://towardsdatascience.com/classifying-reddit-posts-with-natural-language-processing-and-machine-learning-695f9a576ecb) that walks you through my data science process.
+### Our presentation can be found [here.](https://docs.google.com/presentation/d/18HFR4V_COfimNcqGskrFQk7IxSU8_tn7iLrRXwrEkTg/edit#slide=id.g49c05edb3f_1_97) I also have [an article featured on Towards Data Science](https://towardsdatascience.com/classifying-reddit-posts-with-natural-language-processing-and-machine-learning-695f9a576ecb) that walks you through my data science process.
