@@ -1,6 +1,6 @@
 Problem Statement
 ----
-Create a regression model with the [Ames Housing Dataset](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt) to accurately predict the price of a house at sale. There’s been an increase in user traffic to properties with 3-star accuracy Zestimates. Our goal is to improve [Zestimate accuracy (star rating)](https://www.zillow.com/howto/DataCoverageZestimateAccuracyIA.htm) for areas with 3 stars (Good Zestimate).
+Create a regression model with the [Ames Housing Dataset](http://jse.amstat.org/v19n3/decock/DataDocumentation.txt) to accurately predict the price of a house at sale. Thereâ€™s been an increase in user traffic to properties with 3-star accuracy Zestimates. Our goal is to improve [Zestimate accuracy (star rating)](https://www.zillow.com/howto/DataCoverageZestimateAccuracyIA.htm) for areas with 3 stars (Good Zestimate).
 
 
 ## Executive Summary
@@ -18,4 +18,4 @@ Our model achieved an R squared of 94% on training data and 86% on unseen data. 
 * We believe more time and the meeting of diverse minds to test and learn will yield better results.
 * We also would like more data from other cities in Story county and more data on the neighborhood (e.g. number of schools, school types, prisons/jails in the area, etc.)
    
-Our presentation can be found [here.](https://docs.google.com/presentation/d/18HFR4V_COfimNcqGskrFQk7IxSU8_tn7iLrRXwrEkTg/edit#slide=id.g49c05edb3f_1_97)
+Our presentation can be found [here.](https://docs.google.com/presentation/d/18HFR4V_COfimNcqGskrFQk7IxSU8_tn7iLrRXwrEkTg/edit#slide=id.g49c05edb3f_1_97) I also have [an article featured on Towards Data Science](https://towardsdatascience.com/classifying-reddit-posts-with-natural-language-processing-and-machine-learning-695f9a576ecb) that walks you through my data science process.
